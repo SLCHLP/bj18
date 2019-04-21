@@ -6,4 +6,4 @@ add one line
 add one more line in master
 add one more line
 one line
-one line
+
